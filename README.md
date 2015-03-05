@@ -1,6 +1,6 @@
 # Gsnake
 Gluttonous Snake Game wrote in JavaScript on Canvas  
-view on http://zhiyishou.github.io/Gsnake/  
+Play on http://zhiyishou.github.io/Gsnake/  
 <br>
 <br>
 Without js library about Canvas , just basic use of Canvas api in single html file , For Study and Fun.
