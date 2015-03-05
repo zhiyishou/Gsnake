@@ -1,10 +1,6 @@
 # Gsnake
-Gluttonous Snake Game wrote in JavaScript on Canvas
-
-<br>
-view on http://zhiyishou.github.io/Gsnake/  
-
------  
+Gluttonous Snake Game wrote in JavaScript on Canvas 
+view on http://zhiyishou.github.io/Gsnake/
 Without js library about Canvas , just basic use of Canvas api in single html file , For Study and Fun.
 ###the function tree structure:
 <pre>
