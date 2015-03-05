@@ -1,9 +1,11 @@
 # Gsnake
 Gluttonous Snake Game wrote in JavaScript on Canvas  
 view on http://zhiyishou.github.io/Gsnake/  
-<br>
-<br>
 Without js library about Canvas , just basic use of Canvas api in single html file , For Study and Fun.
+##Shoot
+!["runing shoot"](http://zhiyishou.github.io/Gsnake/images/shoot_2.png)  
+<br>
+<br>
 ##the function tree structure:
 <pre>
 |----script   
