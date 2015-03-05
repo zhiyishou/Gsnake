@@ -8,7 +8,7 @@ Without js library about Canvas , just basic use of Canvas api in single html fi
 !["runing shoot"](http://zhiyishou.github.io/Gsnake/images/shoot_2.png)  
 <br>
 <br>
-##The function tree structure:
+##The function tree structure
 <pre>
 |----script   
     |----Definations
